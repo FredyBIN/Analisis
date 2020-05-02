@@ -1,0 +1,22 @@
+body {
+background-image: url(../img/fondo2.jpg);
+
+background-position: center center;
+
+background-size: cover;
+}
+#footer {
+  padding-top: 90px;
+  color: #fff;
+}
+
+#footer .copyright {
+  text-align: center;
+}
+
+#footer .credits {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 13px;
+  color: #ccc;
+}
